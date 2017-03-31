@@ -1,0 +1,16 @@
+.main{
+	margin: 50px;
+}
+
+.main #circle{
+	width: 150px;
+	height: 150px;
+	background: #D57417;
+	border-radius: 100%;
+	display: inline-block;	
+}
+
+.main #img{
+	width: 200px;
+	margin-left: 50px;
+}
